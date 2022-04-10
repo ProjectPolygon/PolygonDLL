@@ -15,7 +15,11 @@ const std::vector<std::string> Util::allowedHosts
     "tadah.rocks",
     "www.tadah.rocks",
     "api.tadah.rocks",
-    "clientsettings.tadah.rocks"
+    "clientsettings.tadah.rocks",
+
+    "calones.xyz",
+    "www.calones.xyz",
+    "cdn.calones.xyz"
 };
 
 const std::vector<std::string> Util::allowedSchemes
